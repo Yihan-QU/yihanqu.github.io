@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to the page of Yihan (NLP)
+You can also come to my [personal site](http://yihan.host20.uk/collections_musiques/) for more information.
 
-You can use the [editor on GitHub](https://github.com/Yihan-QU/yihanqu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Main research 
+- Multiligual NLP research [travailleurs expatriés](http://yihan.host20.uk/projet/web_pe_final/) in Chinese, Korean, English, French as well as Russian 
+- [Maths Game](http://yihan.host20.uk/GAMES_Yihan/)
+- [Corpus enrichment]()
+- [Extraction and treatment of RSS Feed]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
