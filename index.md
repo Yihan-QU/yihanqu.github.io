@@ -4,7 +4,7 @@ You can also come to my [personal site](http://yihan.host20.uk/collections_musiq
 ### Main research 
 - Multiligual NLP research [travailleurs expatriés](http://yihan.host20.uk/projet/web_pe_final/) in Chinese, Korean, English, French as well as Russian 
 - [Maths Game](http://yihan.host20.uk/GAMES_Yihan/)
-- [Music web] (http://yihan.host20.uk/collections_musiques/) 
+- [Music web](http://yihan.host20.uk/collections_musiques/) 
 - [Corpus enrichment]()
 - [Extraction and treatment of RSS Feed]()
 - [Annotation with different tools](http://yihan.host20.uk/cours/S2/EC/EC_DM/Devoir_Yihan_Jiaqi.pdf)
